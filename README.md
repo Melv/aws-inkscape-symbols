@@ -60,3 +60,4 @@ Icon Sets. At the time of writing, AWS
 Once those terms become clear, I might start including the symbols
 alongside the generation code (at which point the license might need
 to change).
+
