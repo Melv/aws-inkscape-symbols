@@ -2,3 +2,4 @@ build/
 target/
 download/
 download.zip
+*.pyc
